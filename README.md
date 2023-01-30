@@ -1,5 +1,5 @@
 
-#Code Refractor Challenge#
+# Code Refractor Challenge
 
 This is the module 1 challenge of the GT Coding Bootcamp.
 The challenge was to refract a working code to be sementically clean.
